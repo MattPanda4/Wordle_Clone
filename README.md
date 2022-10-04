@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/fuvglmV.gif' title='Wordle Clone WalkThrough' alt='Wordle Clone WalkThrough' />
+<img src='https://imgur.com/a/fuvglmV.gif' title='Wordle Clone WalkThrough' width='' alt='Wordle Clone WalkThrough' />
 
 
 GIF created with LiceCap 
