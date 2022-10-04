@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://i.imgur.com/Aj4Wme4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://imgur.com/a/fuvglmV' title='Wordle Clone WalkThrough' width='' alt='Wordle Clone WalkThrough' />
 
 
 GIF created with LiceCap 
