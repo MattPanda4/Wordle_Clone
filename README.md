@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/a/fuvglmV' title='Wordle Clone WalkThrough' width='' alt='Wordle Clone WalkThrough' />
+<img src='https://i.imgur.com/KDu5U0a.gif' title='Wordle Clone WalkThrough' width='' alt='Wordle Clone WalkThrough' />
 
 
 
